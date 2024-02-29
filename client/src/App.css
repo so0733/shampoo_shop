@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "chosunbg";
+  src: url('./font/CHOSUNBG.TTF');
+}
+@font-face {
+  font-family: "pretendard";
+  src: url('./font/Pretendard-Regular.ttf');
+}
+@font-face {
+  font-family: "thefaceshop";
+  src: url('./font/THEFACESHOPINKLIPQUID.ttf');
+}
+@font-face {
+  font-family: "gmarket_1_font";
+  src: url('./font/GmarketSansTTFBold.ttf');
+}
+@font-face {
+  font-family: "gmarket_2_font";
+  src: url('./font/GmarketSansTTFMedium.ttf');
+}
+@font-face {
+  font-family: "gmarket_3_font";
+  src: url('./font/GmarketSansTTFLight.ttf');
+}
