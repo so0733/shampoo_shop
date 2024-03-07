@@ -6,7 +6,7 @@
 
 이 프로젝트는 React.js와 Node.js를 기반으로 한 쇼핑몰 서비스 사이트입니다. 사용자에게 편리한 서비스를 제공하기 위해 다양한 기능을 포함하고 있으며, 주요 기능은 회원가입, 로그인, 상품 관리, 장바구니, 게시판 등으로 구성되어 있습니다.
 
-### 🚀 주요 기능
+## 🚀 주요 기능
 1. **회원가입 및 로그인**
    - 사용자는 회원가입을 통해 개인 계정을 생성할 수 있습니다.
    - 로그인 기능을 통해 인증된 사용자는 상품 주문 등의 서비스를 이용할 수 있습니다.
@@ -27,19 +27,17 @@
    - 리액트를 활용하여 동적이고 사용자 친화적인 인터페이스를 제공합니다.
    - 반응형 디자인을 통해 다양한 디바이스에서 일관된 사용 경험을 제공합니다.
 
-### 📅 프로젝트 일정
+## 📅 프로젝트 일정
 2024년 1월 23일부터 2024년 2월 29일까지 진행됩니다.
 
-### 🛠️ 기술 스택
+## 🛠️ 기술 스택
 - React.js
 - Node.js
 - MongoDB
 - Express
 - styled-component
 
-### 프로젝트 구조
-### 프로젝트 구조
-
+## 프로젝트 구조
 📁 shampoo_shop  
 ├─ 📁 client  
 │  ├─ 📁 src  
@@ -158,17 +156,16 @@
 ├─ 📄 review.js  
 └─ 📄 user.js  
 
-
-### ScreenShots
-<img src="https://github.com/so0733/imgfile/blob/main/shampoo_1.png?raw=true" style="max-width: 700px; max-height: 400px;">
-<img src="https://github.com/so0733/imgfile/blob/main/shampoo_2.png?raw=true" style="max-width: 700px; max-height: 400px;">
-<img src="https://github.com/so0733/imgfile/blob/main/shampoo_3.png?raw=true" style="max-width: 700px; max-height: 400px;">
-<img src="https://github.com/so0733/imgfile/blob/main/shampoo_4.png?raw=true" style="max-width: 700px; max-height: 400px;">
-<img src="https://github.com/so0733/imgfile/blob/main/shampoo_5.png?raw=true" style="max-width: 700px; max-height: 400px;">
-<img src="https://github.com/so0733/imgfile/blob/main/shampoo_6.png?raw=true" style="max-width: 700px; max-height: 400px;">
-<img src="https://github.com/so0733/imgfile/blob/main/shampoo_7.png?raw=true" style="max-width: 700px; max-height: 400px;">
-<img src="https://github.com/so0733/imgfile/blob/main/shampoo_8.png?raw=true" style="max-width: 700px; max-height: 400px;">
-<img src="https://github.com/so0733/imgfile/blob/main/shampoo_9.png?raw=true" style="max-width: 700px; max-height: 400px;">
-<img src="https://github.com/so0733/imgfile/blob/main/shampoo_10.png?raw=true" style="max-width: 700px; max-height: 400px;">
+## ScreenShots
+<img src="https://github.com/so0733/imgfile/blob/main/shampoo_1.png?raw=true" style="max-width: 700px; max-height: 400px;">  
+<img src="https://github.com/so0733/imgfile/blob/main/shampoo_2.png?raw=true" style="max-width: 700px; max-height: 400px;">  
+<img src="https://github.com/so0733/imgfile/blob/main/shampoo_3.png?raw=true" style="max-width: 700px; max-height: 400px;">  
+<img src="https://github.com/so0733/imgfile/blob/main/shampoo_4.png?raw=true" style="max-width: 700px; max-height: 400px;">  
+<img src="https://github.com/so0733/imgfile/blob/main/shampoo_5.png?raw=true" style="max-width: 700px; max-height: 400px;">  
+<img src="https://github.com/so0733/imgfile/blob/main/shampoo_6.png?raw=true" style="max-width: 700px; max-height: 400px;">  
+<img src="https://github.com/so0733/imgfile/blob/main/shampoo_7.png?raw=true" style="max-width: 700px; max-height: 400px;">  
+<img src="https://github.com/so0733/imgfile/blob/main/shampoo_8.png?raw=true" style="max-width: 700px; max-height: 400px;">  
+<img src="https://github.com/so0733/imgfile/blob/main/shampoo_9.png?raw=true" style="max-width: 700px; max-height: 400px;">  
+<img src="https://github.com/so0733/imgfile/blob/main/shampoo_10.png?raw=true" style="max-width: 700px; max-height: 400px;">  
 🚀 **샴푸샵으로 편리하고 다양한 쇼핑 경험을 시작해보세요!**
 
